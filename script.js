@@ -1,1 +1,1 @@
-function Alert(txt) {alert(txt)}
+function Alert(txt) { alert(txt); }
